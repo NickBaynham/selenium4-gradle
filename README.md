@@ -1,5 +1,3 @@
-Certainly! Here’s a comprehensive documentation for the selenium4-gradle repository.
-
 Selenium 4 with Gradle Project
 
 This project demonstrates how to set up and run Selenium 4 tests using Gradle as the build tool.
